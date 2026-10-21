@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/massive-mimo-radio-panel-explainer/
 
+Repository: https://github.com/mizcausevic-dev/massive-mimo-radio-panel-explainer
+
 ## What this is
 
 An interactive anatomy plate for Massive-MIMO Radio Panel. Play, scrub, or jump the five stages. The same frame always draws the same picture.
